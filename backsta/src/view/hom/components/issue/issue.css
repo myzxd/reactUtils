@@ -1,0 +1,93 @@
+.tileBtn {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.Issue_wrap {
+    width: 100%;
+    height: auto;
+}
+
+.Issue_tile {
+    width: 100%;
+    height: 30px;
+    background: #ccc;
+    line-height: 30px;
+    text-indent: 1em;
+}
+
+.Issue_tile h5 {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.inputBox {
+    width: 100%;
+    height: 70px;
+    margin-top: 20px;
+}
+
+.inputBox ul {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.inputBox ul li {
+    width: 15%;
+    height: 100%;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.inputBox ul li h5 {
+    width: 100%;
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #ccc;
+}
+
+.inputBox ul li h5 span {
+    margin-top: 20px;
+}
+
+.setting {
+    width: 100%;
+    height: 120px;
+    margin-top: 15px;
+}
+
+.setting h5 {
+    color: blue;
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+}
+
+.setting p {
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.setting p span {
+    margin-left: 5px;
+    font-size: 10px;
+}
+
+.setting h6 {
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    color: #ccc;
+    text-indent: 2em;
+}
